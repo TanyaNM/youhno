@@ -1,0 +1,42 @@
+h1{
+     text-align: center;
+     font-size: 70px;
+     color:rgb(111, 189, 237);
+}
+p{
+     color:black;
+     text-align: center;
+      font-size: 30px;
+      background-color: rgb(172, 172, 172);
+}
+img{
+     width: 100px;
+
+}
+.gallery{
+     
+
+    display: flex;
+justify-content: center;
+
+}
+.gallery img{
+         display: flex;
+justify-content: center;
+margin: 45px;
+padding: 25px;
+}
+nav{
+       background-color: rgb(1, 187, 254);
+      text-align: center;
+padding: 35px;
+  margin: 40px;
+}
+nav a{
+     background-color: rgb(249, 225, 10);
+     text-decoration: none;
+     color:rgb(4, 4, 11);
+     font-size: 30px;
+     padding: 15px;
+     margin: 20px;
+}
